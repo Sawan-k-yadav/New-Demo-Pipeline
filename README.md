@@ -28,7 +28,7 @@ git branch
 git branch -M main
 
 # To add the origin
-git remote add origin https://github.com/Sawan-k-yadav/New-Demo-Pipeline.git  (reposritory link)
+git remote add origin https://github.com/Sawan-k-yadav/New-Demo-Pipeline.git  (repository link)
 
 # To push changes of file and folder
 git push -u origin main

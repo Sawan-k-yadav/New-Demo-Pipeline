@@ -1,0 +1,6 @@
+pandas
+numpy
+flask
+
+-e .  # After adding this whatever folder we want to make as package then we add this.
+      # All library will be installed from setup.py

@@ -13,22 +13,3 @@ git add .
 
 # to undo adding all the file in staging area
 git reset
-
-# Now if we will do
-git add . 
-# Now venv files will add in staging area
-
-# To commit the files which we have added in staging area
-git commit -m "message"
-
-# To check git it pointing to which branch
-git branch
-
-# To point/change to main branch 
-git branch -M main
-
-# To add the origin
-git remote add origin https://github.com/Sawan-k-yadav/New-Demo-Pipeline.git  (reposritory link)
-
-# To push changes of file and folder
-git push -u origin main
